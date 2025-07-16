@@ -92,5 +92,7 @@ Certain products, like the "Road Tire Tube," exhibit high return rates, indicati
 High-value customers contribute significantly to revenue with relatively few orders, highlighting the importance of customer segmentation.
 
 # Screenshot
-![Screenshot 1](Screenshot/Screenshot(1).png)
-
+![Screenshot 1](Screenshots/Screenshot(1).png)
+![Screenshot 1](Screenshots/Screenshot(2).png)
+![Screenshot 1](Screenshots/Screenshot(3).png)
+![Screenshot 1](Screenshots/Screenshot(4).png)
